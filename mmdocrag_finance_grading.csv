@@ -1,0 +1,516 @@
+q_id,question,generated_answer,reference_answer,correct,judge_model,judge_error
+1160,How did the net loan charge-off rate for California's junior lien mortgage portfolio change from 2020 to 2021?,The supplied evidence is insufficient to answer the question about how the net loan charge-off rate for California's junior lien mortgage portfolio changed from 2020 to 2021 (the specific data values from Table 20 referenced in text6 are not visible in the text or image descriptions).,The net loan charge-off rate for California's junior lien mortgage portfolio decreased from -0.35 in 2020 to -0.59 in 2021.,0,gemini-3.5-flash,
+422,How did the stock-based compensation expense for restricted stock change from 2019 to 2021?,"Based on the provided evidence, the stock-based compensation expense for restricted stock changed from $78 million in 2019 to $225 million in 2021 (increasing from $78 million in 2019 to $139 million in 2020, and then to $225 million in 2021).",The expense increased from $78 million in 2019 to $225 million in 2021.,1,gemini-3.5-flash,
+396,"What is the trend in 'Non-GAAP free cash flow' from 2013 to 2015, and how is it reconciled with operating cash flow?","Based on the supplied evidence, the trend in ""Non-GAAP free cash flow"" from 2013 to 2015 is negative and decreasing (or becoming more negative):
+* **2013:** $(16,300) thousand
+* **2014:** $(126,699) thousand
+* **2015:** $(920,557) thousand
+
+**Reconciliation with Operating Cash Flow:**
+Non-GAAP free cash flow is reconciled by starting with ""Net cash (used in) provided by operating activities"" and adjusting for the following items from investing and other activities:
+* Acquisition of DVD content assets
+* Purchases of property and equipment
+* Other assets","The 'Non-GAAP free cash flow' shows a declining trend from $(16,300) in 2013 to $(920,557) in 2015, reconciled by subtracting acquisitions, property purchases, and other assets from operating cash flow.",1,gemini-3.5-flash-lite,
+1168,How did the gross and net developed acreage change for the United States from 2019 to 2020?,"Based on the supplied evidence (measured in thousands of acres), the gross and net developed acreage for the United States changed as follows from 2019 to 2020:
+
+* **Consolidated Subsidiaries (United States):**
+  * **Gross developed acreage:** Decreased from 13,283 (in 2019) to 12,834 (in 2020).
+  * **Net developed acreage:** Decreased from 8,097 (in 2019) to 7,971 (in 2020).
+
+* **Equity Companies (United States):**
+  * **Gross developed acreage:** Increased from 926 (in 2019) to 928 (in 2020).
+  * **Net developed acreage:** Increased from 207 (in 2019) to 208 (in 2020).","The gross developed acreage decreased from 13,283 to 12,834, and the net developed acreage decreased from 8,097 to 7,971.",1,gemini-3.5-flash-lite,
+1310,"How did the revenue and underlying EBITDA for copper and iron ore segments change from 2020 to 2021, and what factors contributed to these changes?","Based on the supplied evidence, the changes from 2020 to 2021 and their contributing factors are as follows:
+
+*   **Copper Segment:**
+    *   **Revenue:** Increased by US$5.1 billion to US$15.7 billion (specifically, from US$10,666 million in 2020 to US$15,726 million in 2021).
+    *   **Underlying EBITDA:** Increased by US$4.1 billion to US$8.5 billion (specifically, from US$4,347 million in 2020 to US$8,489 million in 2021). 
+    *   **Contributing Factors:** The revenue increase was driven by higher average realised copper prices (which rose from US$2.50 per pound in FY2020 to US$3.81 per pound in FY2021), which was offset by lower production (total copper production decreased from 1,724 kt to 1,636 kt). For Underlying EBITDA, price impacts net of price-linked costs increased it by US$4.3 billion, while lower volumes decreased it by US$258 million.
+
+*   **Iron Ore Segment:**
+    *   **Revenue:** Increased by US$13.7 billion to US$34.5 billion (specifically, from US$20,797 million in 2020 to US$34,475 million in 2021).
+    *   **Underlying EBITDA:** Increased by US$11.7 billion to US$26.3 billion (specifically, from US$14,554 million in 2020 to US$26,278 million in 2021).
+    *   **Contributing Factors:** Total Iron Ore revenue reflected higher average realised prices (rising from US$77.36 per wmt in FY2020 to US$130.56 per wmt in FY2021) and production (rising from 248 Mt to 254 Mt). Underlying EBITDA growth was driven by favourable price impacts net of price-linked costs of US$12.1 billion and higher volumes increasing it by US$148 million. These gains were partially offset by unfavourable foreign exchange impacts of US$416 million, and other items such as inflation and one-off items that negatively impacted Underlying EBITDA by US$63 million.","Revenue and underlying EBITDA for both copper and iron ore increased significantly from 2020 to 2021, driven by higher average realized prices and increased demand.",1,gemini-3.5-flash-lite,
+1008,How does the adjustment affect the 'Net Cash Flows From/Used in Investing Activities from Continuing Operations' in 2021 compared to 2020?,"Based on the supplied evidence (Image 5), the adjustments for ""Net Cash Flows From/Used in Investing Activities from Continuing Operations"" are **-5,997** (in USD millions) in 2021 compared to **11,096** (in USD millions) in 2020.","Adjustments in 2021 (-5,997) reduced the IFRS Cash Flow (4,208) to a Free Cash Flow of -1,789, while adjustments in 2020 (11,096) increased the IFRS Cash Flow (-13,055) to a Free Cash Flow of -1,959.",1,gemini-3.5-flash-lite,
+646,"What was the average price paid per share during the share repurchase from August 23 to September 26, 2021?","Based on the supplied evidence, the average price paid per share during the share repurchase from August 23 to September 26, 2021, was $141.32.",$141.32,1,gemini-3.5-flash-lite,
+972,What were the 2020 key activities of the Research & Development Committee?,"Based on the supplied evidence, the 2020 key activities of the Research & Development Committee were reviewing clinical trial results and unmet needs in cognitive impairment.","The Research & Development Committee reviewed clinical trials, explored R&D opportunities, addressed unmet needs in cognitive impairment, and assessed external collaborations and acquisitions.",0,gemini-3.5-flash-lite,
+353,How did the year-over-year percentage growth rates for AWS compare to other segments from 2015 to 2017?,"From 2015 to 2017, the year-over-year percentage growth rates for AWS compared to other segments were as follows:
+
+* **AWS:** 70% (2015 to 2016) and 55% (2016 to 2017) [or 43% (2017 to 2018)]
+* **North America:** 25% (2015 to 2016), 25% (2016 to 2017), and 33% (2017 to 2018)
+* **International:** 6% (2015 to 2016), 24% (2016 to 2017), and 23% (2017 to 2018)",AWS had the highest year-over-year percentage growth rates compared to North America and International segments from 2015 to 2017.,1,gemini-3.5-flash-lite,
+1268,What were the differences in currency translation adjustments between fiscal years 2021 and 2020?,"Based on the supplied evidence, the currency translation differences (reported under other comprehensive income that may be reclassified subsequently to profit or loss) were **€724 million** in fiscal year 2021 and **€-768 million** in fiscal year 2020.",The currency translation differences were €724 million in 2021 compared to €-768 million in 2020.,1,gemini-3.5-flash-lite,
+537,Which country showed a decrease in numbers from 2019 to 2020 according to the table?,"Based on the supplied evidence, the provided tables and text do not list the specific country-by-country breakdown of numbers for 2019 to 2020 (image 2 mentions that numbers are displayed across various countries and regions from 2016 to 2020, but the individual country details are not provided). Therefore, the evidence is insufficient to answer which specific country showed a decrease.",Australia showed a decrease from 154 in 2019 to 152 in 2020.,0,gemini-3.5-flash-lite,
+1157,"What is the total amount of loans maturing after one year with floating/variable interest rates as of December 31, 2021?","Based on the supplied evidence, the evidence is insufficient to provide the total amount of all loans (both commercial and consumer) maturing after one year with floating/variable interest rates as of December 31, 2021, because the consumer loan table cuts off before showing the total for floating/variable interest rate loans maturing after one year. However, the evidence states that for **Total Commercial** loans maturing after one year, the floating/variable amount is **$291,666 million** as of December 31, 2021.","$372,304 million",0,gemini-3.5-flash-lite,
+830,How did Chevron Corporation's upstream and downstream operations contribute to its net income in 2021?,"In 2021, Chevron Corporation's operations contributed to its net income as follows:
+
+* **Upstream Operations:** Totaled $15,818 million ($7,319 million from the United States and $8,499 million from International operations).
+* **Downstream Operations:** Totaled $2,914 million ($2,389 million from the United States and $525 million from International operations). 
+
+*(Note: ""All Other"" activities contributed a loss of $3,107 million, resulting in a total net income attributable to Chevron Corporation of $15,625 million for 2021).*","Chevron's upstream operations contributed $15,818 million, while downstream operations contributed $2,914 million to the 2021 net income of $15,625 million.",1,gemini-3.5-flash-lite,
+2054,Compare the changes in total inventories and total receivables from 2020 to 2021. What might be the reason for the observed trends?,"Based on the supplied evidence, total inventories and total trade and other receivables changed as follows from 2020 to 2021:
+
+* **Total inventories** increased from €2,304 million (as of September 30, 2020) to €3,179 million (as of September 30, 2021).
+* **Total trade and other receivables** increased from €2,568 million (as of September 30, 2020) to €3,740 million (as of September 30, 2021).
+
+The provided evidence does not contain information explaining the reasons for the observed trends in total inventories and total receivables.","Total inventories increased from €2,304 million in 2020 to €3,179 million in 2021, and total trade and other receivables increased from €2,568 million in 2020 to €3,740 million in 2021. The trends could be due to increased sales and production activities.",1,gemini-3.5-flash-lite,
+1787,"How did the total loans and total deposits change in both Consumer Banking and Lending, and Corporate and Investment Banking from 2020 to 2021?","Based on the supplied evidence, the exact details regarding total loans and total deposits specifically for ""Consumer Banking and Lending"" from 2020 to 2021 are insufficient. 
+
+However, regarding **Corporate and Investment Banking** (or similarly related segments in the text, such as Commercial Banking), the evidence indicates:
+* **Total loans** (average) decreased (e.g., total commercial loans and specific lines like Middle Market Banking and Asset-Based Lending and Leasing decreased from 2020 to 2021).
+* For specific segments like Commercial Banking / other areas, average and period-end total loans decreased as paydowns exceeded originations, while total deposits (average and period-end) increased. 
+
+For a complete answer covering ""Consumer Banking and Lending"" specifically, the evidence is insufficient.",Total loans decreased in Consumer Banking and Lending but increased in Corporate and Investment Banking. Total deposits increased in Consumer Banking and Lending but decreased in Corporate and Investment Banking.,0,gemini-3.5-flash-lite,
+819,How did the costs associated with 'Subscription and Support' and 'Professional Services and Other' change from 2019 to 2020?,"Based on the supplied evidence, the costs associated with ""Subscription and Support"" and ""Professional Services and Other"" changed as follows from 2019 to 2020:
+
+* **Subscription and Support:** Increased from $2,604 million in 2019 to $3,198 million in 2020 (a variance/increase of $594 million).
+* **Professional Services and Other:** Increased from $847 million in 2019 to $1,037 million in 2020 (a variance/increase of $190 million).","Costs for 'Subscription and Support' increased by $594 million, and 'Professional Services and Other' increased by $190 million from 2019 to 2020.",1,gemini-3.5-flash-lite,
+325,"What was the change in net cash used in financing activities from 2018 to 2019, and how does it compare to changes in other cash flow activities?","Based on the supplied evidence, net cash used in financing activities was $\\S237$ million for 2019, as compared to $\\S2.0$ billion (or $\$2,020$ million) for 2018. According to the cash flow activities table (Image 5), this represents an increase of $\$1,783$ million (from $\$(2,020)$ in 2018 to $\$(237)$ in 2019).
+
+When compared to changes in other cash flow activities:
+* **Net cash provided by operating activities** increased by $\$41$ million, going from $\$1,790$ million in 2018 to $\$1,831$ million in 2019.
+* **Net cash used in investing activities** increased by $\$208$ million, going from $\$(230)$ million in 2018 to $\$(22)$ million in 2019.","Net cash used in financing activities decreased by $1,783, which is the largest change compared to other cash flow activities.",1,gemini-3.5-flash-lite,
+1364,How did the composition and total amount of average global liquidity sources change from 2019 to 2020?,"Based on the supplied evidence (specifically comparing the three months ended December 31, 2019, to the three months ended December 31, 2020), the composition and total amount of average global liquidity sources changed as follows:
+
+* **Total Average Global Liquidity Sources:** Increased from **$576 billion** in 2019 to **$943 billion** in 2020.
+* **Composition (by category):**
+  * **Cash on deposit:** Increased from **$103 billion** (2019) to **$322 billion** (2020).
+  * **U.S. Treasury securities:** Increased from **$98 billion** (2019) to **$141 billion** (2020).
+  * **U.S. agency securities, mortgage-backed securities, and other investment-grade securities:** Increased from **$358 billion** (2019) to **$462 billion** (2020).
+  * **Non-U.S. government securities:** Increased from **$17 billion** (2019) to **$18 billion** (2020).
+* **Composition (by entity type):**
+  * **Bank entities:** Increased from **$454 billion** (2019) to **$773 billion** (2020).
+  * **Nonbank and other entities:** Increased from **$122 billion** (2019) to **$170 billion** (2020).","The total average global liquidity sources increased from $576 billion in 2019 to $943 billion in 2020, with significant increases in cash on deposit and U.S. agency securities.",1,gemini-3.5-flash-lite,
+647,"How did the gross margin change from 2020 to 2021, and what were the contributing factors?","Based on the provided evidence, the gross margin percentage decreased from 61% in 2020 to 58% in 2021. 
+
+The contributing factors to the decrease in the gross margin percentage in fiscal 2021 were:
+- A decrease in licensing revenues from Huawei recorded in fiscal 2020 resulting from amounts due under the settlement agreement and royalties for sales made in the March 2020 and June 2020 quarters under the new global patent licensing agreement.
+- A decrease in higher margin QTL licensing revenues in proportion to QCT revenues.
+- (Offset in part by an) increase in QCT gross margin.","The gross margin decreased from 61% in 2020 to 58% in 2021, mainly due to decreased licensing revenues from Huawei and increased QCT gross margin.",1,gemini-3.5-flash-lite,
+982,"What is the carrying amount of total intangible assets at the end of 2020 compared to 2019, and how does it reflect year-over-year changes?","The supplied evidence is insufficient to provide the exact carrying amount of total intangible assets at the end of 2020 compared to 2019, as the specific numerical summary table for total intangible assets' carrying amounts is not fully detailed in the text. However, the evidence notes that free cash flow decreased by DKK 28.6 billion compared with DKK 34.5 billion in 2019, reflecting a purchase of intangible assets of DKK 16.3 billion primarily related to the acquisitions of Corvidia Therapeutics Inc. and Emisphere Technologies Inc., and that intangible assets not yet being amortised amounted to DKK 9,607 million in 2020 compared to DKK 3,380 million in 2019.","The carrying amount of total intangible assets increased from 5,835 DKK million in 2019 to 20,657 DKK million in 2020, reflecting significant growth.",0,gemini-3.5-flash-lite,
+144,What was the company's operating income for the fiscal year 2018?,"Based on the supplied evidence, the evidence is insufficient to provide the operating income specifically for the fiscal year 2018.","The operating income for the fiscal year 2018 was $5,899 million.",0,gemini-3.5-flash-lite,
+1026,"What is the total amount of PepsiCo's liabilities and equity for the years 2020 and 2019, and how is it distributed across major categories?","Based on the supplied evidence, the available breakdown for PepsiCo's liabilities and equity for the years 2020 and 2019 is as follows:
+
+**Total Liabilities and Equity / Total Liabilities:**
+*(Note: The provided text cuts off the full equity breakdown, but lists total liabilities and major categories as follows)*
+
+*   **Total Liabilities:**
+    *   2020: $79,366
+    *   2019: $63,679
+
+**Distribution Across Major Categories:**
+
+1. **Current Liabilities:**
+   *   **Short-term debt obligations:** 
+       *   2020: $3,780
+       *   2019: $2,920
+   *   **Accounts payable and other current liabilities:** 
+       *   2020: $19,592
+       *   2019: $17,541
+   *   **Total Current Liabilities:** 
+       *   2020: $23,372
+       *   2019: $20,461
+
+2. **Long-Term Liabilities and Other Categories:**
+   *   **Long-Term Debt Obligations:** 
+       *   2020: $40,370
+       *   2019: $29,148
+   *   **Deferred Income Taxes:** 
+       *   2020: $4,284
+       *   2019: $4,091
+   *   **Other Liabilities:** 
+       *   2020: $11,340
+       *   2019: $9,979
+
+3. **Equity (PepsiCo Common Shareholders’ Equity - partial per evidence):**
+   *   **Common stock:** $23 (for both 2020 and 2019)
+   *   *(Capital in excess of par value and remaining equity details are cut off in the provided text evidence).*","The total liabilities and equity are $92,918 million for 2020 and $78,547 million for 2019. It is distributed across liabilities ($79,366 million in 2020, $63,679 million in 2019) and equity ($13,552 million in 2020, $14,868 million in 2019).",0,gemini-3.5-flash-lite,
+1363,"How did the total contractual obligations and specific categories such as long-term debt and time deposits change from December 31, 2019, to December 31, 2020?","Based on the supplied evidence, from December 31, 2019, to December 31, 2020:
+
+* **Long-term debt** increased by $\\S22.1$ billion (from $\$240,856$ million in 2019 to $\$262,934$ million in 2020).
+* **Time deposits** decreased from $\$74,673$ million in 2019 to $\$55,856$ million in 2020. 
+
+The evidence is insufficient to provide a total sum for ""total contractual obligations"" across all categories combined, as the total for all categories is cut off in the provided text and images.","Total contractual obligations increased from $379,337 million in 2019 to $387,353 million in 2020. Long-term debt increased from $240,856 million to $262,934 million, while time deposits decreased from $74,673 million to $55,856 million.",0,gemini-3.5-flash-lite,
+1233,"What is the increase in total net sales from 2020 to 2021, and which category contributed the most to this increase?","Based on the supplied evidence, net sales reached €27.7 billion, representing a $+36\%$ increase versus 2020 (or an increase from €20,402 to €27,716, as shown in the sales breakdown). 
+
+Regarding the category that contributed the most to this increase, the supplied evidence is insufficient to determine which category contributed the most.","The total net sales increased by 7,314, primarily due to 'Net sales in company-managed stores and online.'",0,gemini-3.5-flash-lite,
+1237,"What is the total amount of receivables as of January 31, 2022, and how does it compare to January 31, 2021?","Based on the supplied evidence, the total amount of receivables is:
+
+* **As of January 31, 2022:** 842
+* **As of January 31, 2021:** 715
+
+Comparing the two periods, the total amount of receivables increased by 127 (from 715 on January 31, 2021, to 842 on January 31, 2022).","The total receivables were 842 on January 31, 2022, compared to 715 on January 31, 2021.",1,gemini-3.5-flash-lite,
+1312,"How did the stock performance of Amgen compare to the S&P 500 and Amex Biotech indices over the years 2015 to 2020, and what financial trends can be observed during this period?","Based on the supplied evidence, a $100 investment on December 31, 2015, in Amgen, the Amex Biotech Index, and the S&P 500 resulted in the following values at the end of each year:
+
+*   **Amgen (AMGN):** $100.00 (2015) $\rightarrow$ $92.45 (2016) $\rightarrow$ $113.08 (2017) $\rightarrow$ $130.14 (2018) $\rightarrow$ $166.09 (2019) $\rightarrow$ $162.76 (2020)
+*   **Amex Biotech (BTK):** $100.00 (2015) $\rightarrow$ $80.85 (2016) $\rightarrow$ $111.42 (2017) $\rightarrow$ $111.72 (2018) $\rightarrow$ $134.54 (2019) $\rightarrow$ $152.81 (2020)
+*   **S&P 500 (SPX):** $100.00 (2015) $\rightarrow$ $111.95 (2016) $\rightarrow$ $136.46 (2017) $\rightarrow$ $130.50 (2018) $\rightarrow$ $171.57 (2019) $\rightarrow$ $203.12 (2020)
+
+**Financial trends observed during this period:**
+*   **Total revenues** increased from $22,991 million in 2016 to $25,424 million in 2020 (reaching a record $25.4 billion in 2020, up $9\%$ driven by unit demand increases from newer brands like Otezla?, MVASI°, KANJINTI°, and Repatha\*).
+*   **Product sales** increased from $21,892 million in 2016 to $24,240 million in 2020.
+*   **Dividends paid per share** increased from $4.00 in 2016 to $6.40 in 2020.
+*   **Net income** was $7,722 million in 2016 and $7,264 million in 2020.
+*   **Diluted earnings per share** went from $10.24 in 2016 to $12.31 in 2020.
+*   **Total assets** varied from $77,626 million in 2016 to $62,948 million in 2020.
+*   **Total debt** varied from $34,596 million in 2016 to $32,986 million in 2020.
+*   **Total stockholders' equity** decreased from $29,875 million in 2016 to $9,409 million in 2020.","Amgen's stock performance showed some fluctuations but ended below the S&P 500, which had the highest growth, while Amex Biotech showed recovery after initial decline. Financially, Amgen's revenues and expenses increased, but net income slightly decreased.",1,gemini-3.5-flash-lite,
+1717,"How did the financial performance of IBM's Systems segment change from 2019 to 2020 in terms of revenue, gross profit, and expenses?","Based on the supplied evidence, the financial performance of IBM's Systems segment from 2019 to 2020 changed as follows:
+
+*   **Revenue:** Total Systems external revenue decreased from $7,604 million in 2019 to $6,978 million in 2020, representing a year-to-year decrease of 8.2% as reported (or 8.7% / 9% adjusted for currency). Specifically:
+    *   *Systems Hardware* revenue decreased from $5,918 million in 2019 to $5,481 million in 2020 (a 7.4% decrease as reported, or 8% adjusted for currency), driven by declines in Power Systems (down 22.4%) and Storage Systems (down 6.1%), partially offset by growth in IBM Z (up 1.9%).
+    *   *Operating Systems Software* revenue decreased from $1,686 million in 2019 to $1,497 million in 2020 (an 11.2% decrease as reported or 11% adjusted for currency).
+*   **Gross Profit:** 
+    *   *External Systems Hardware* gross profit increased from $2,622 million in 2019 to $2,668 million in 2020 (a 1.8% increase), and the gross profit margin increased by 4.4 percentage points to 48.7%.
+    *   *External Operating Systems Software* gross profit decreased from $1,412 million in 2019 to $1,232 million in 2020 (a 12.8% decrease), and the gross profit margin decreased by 1.5 percentage points to 82.3%.
+    *   *External Total* gross profit decreased from $4,034 million in 2019 to $3,899 million in 2020 (a 3.3% decrease), while the overall Systems gross profit margin increased by 2.8 points to 55.9%.
+*   **Expenses:** The supplied evidence does not provide explicit total expense figures for the Systems segment itself (only consolidated company-wide expenses and specific pre-tax income/margin figures), so the evidence is insufficient to detail segment-specific expenses.","IBM's Systems segment saw a decrease in revenue and total gross profit, while expenses increased from 2019 to 2020.",1,gemini-3.5-flash-lite,
+1680,"How did Chevron's capital and exploratory expenditures change from 2019 to 2021, and how does this compare to the changes in operating expenses over the same period?",The supplied evidence is insufficient to answer the question about Chevron's capital and exploratory expenditures and operating expenses from 2019 to 2021.,"Chevron's capital and exploratory expenditures decreased significantly from $20,994 million in 2019 to $11,720 million in 2021, while operating expenses remained relatively stable, around $25 billion each year.",0,gemini-3.5-flash-lite,
+1126,How does a change in the medical cost PMPM quarterly trend affect the medical costs payable?,"Based on the supplied evidence, changes in the medical cost PMPM quarterly trend affect the estimated medical costs payable as follows:
+
+* 3% increase: +$793 million
+* 2% increase: +$529 million
+* 1% increase: +$264 million
+* 1% decrease: -$264 million
+* 2% decrease: -$529 million
+* 3% decrease: -$793 million","Increases or decreases in the medical cost PMPM quarterly trend by 1%, 2%, or 3% result in corresponding changes in medical costs payable by $264 million, $529 million, or $793 million respectively.",1,gemini-3.5-flash-lite,
+839,"How did Chevron Corporation's comprehensive income change from 2020 to 2021, and what were the key contributing factors?","Based on the supplied evidence, Chevron Corporation's comprehensive income changed significantly from a negative position in 2020 to **$17,412 million** (or significantly positive) in 2021. 
+
+The evidence is insufficient to provide a complete breakdown of all key contributing factors to the change in comprehensive income, though it notes that net income improved to $15,689 million in 2021 from losses in 2020, driven by factors such as higher upstream realizations, higher downstream margins, and the absence of 2020 impairments and write-offs.","Comprehensive income increased from a loss of $6,183 million in 2020 to a positive $17,412 million in 2021, mainly due to increased net income and positive other comprehensive gains.",1,gemini-3.5-flash-lite,
+207,What was the profit of the company for the year 2021 in US dollars (USD)?,US$505 million,The profit for the year 2021 was 505 million USD.,1,gemini-3.5-flash-lite,
+1608,"Compare the total compensation of the CEO, M. Fogassa, with that of Roger Noriega in 2020, and explain the main components contributing to their compensation.","Based on the supplied evidence:
+
+* **CEO (M. Fogassa):** In 2020, M. Fogassa had a total compensation of **$37,500**. The main component contributing entirely to this compensation was a **salary** of $37,500. All other categories (Bonus, Stock Awards, Option Awards, Non-Equity Incentive Plan Compensation, Non-Qualified Deferred Compensation Earnings, and All Other Compensation) were not awarded.
+* **Roger Noriega:** In 2020, Roger Noriega had a total compensation of **$50,000**. The main component contributing entirely to this compensation was **Option Awards** valued at $50,000, with cash fees and stock awards indicating zero or no specific value.","The total compensation for M. Fogassa in 2020 was $37,500, while Roger Noriega's total compensation was $50,000.",1,gemini-3.5-flash-lite,
+1444,How did the financial performance of Amberjack change from 2018 to 2020 across different metrics of income statements?,"The supplied evidence is insufficient to answer how the financial performance of Amberjack changed across different metrics of income statements from 2018 to 2020, as it does not provide the specific income statement data for Amberjack for the year 2019.","From 2018 to 2020, Amberjack's total revenues increased from $204 million to $280 million, total operating expenses increased from $47 million to $78 million, operating income decreased from $157 million to $202 million, and net income decreased from $157 million to $201 million.",0,gemini-3.5-flash-lite,
+1485,"How did Siemens Healthineers' cash flows and segment performances change from 2020 to 2021, and what were the expectations versus actual results?","Based on the supplied evidence, the changes and results from 2020 to 2021 are as follows:
+
+**Cash Flows:**
+* **Cash flows from operating activities:** Increased from €1,928 million in 2020 to €2,933 million in 2021. 
+* **Cash flows from investing activities:** Resulted in a significant cash outflow of €-14,140 million in 2021 (compared to €-1,912 million in 2020), mainly resulting from additional capital payments for the acquisition of Varian.
+* **Cash flows from financing activities:** Consisted of €11,839 million in 2021 (compared to €-249 million in 2020), mainly from loans raised to finance the acquisition of Varian (€9.2 billion) and net inflows from the capital increase (€2.3 billion), offset by dividends, loan repayments, buybacks of treasury shares, and interest paid.
+* **Free cash flow:** Increased from €1,371 million in 2020 to €2,259 million in 2021.
+
+**Segment Performances and Expectations vs. Actual Results:**
+* **Siemens Healthineers Overall (Expectations vs. Actual):** Comparable revenue growth expectations were updated after Q3 2021 to be between 17% and 19% (up from an initial 5% to 8% in the Annual Report 2020). The actual comparable revenue growth was 19%, landing at the upper end of the expected range. Adjusted basic earnings per share expectations were €1.95 to €2.05 (up from €1.58 to €1.72 initially), and the actual result was €2.03.
+* **Imaging:** Adjusted revenue increased on a comparable basis by 11% (exceeding the expectation of at least 5%). The adjusted EBIT margin was 21.1% (at the prior-year level), which was below expectations due to higher negative currency effects, a less favorable business mix, and higher material and logistics costs.
+* **Diagnostics:** Adjusted revenue increased on a comparable basis by 42% (exceeding expectations of mid- to high-single-digit growth and earlier estimates of more than 35%). The adjusted EBIT margin reached 13.3%, clearly above the prior year and fulfilling expectations.
+* **Varian:** Adjusted revenue was €1,300 million (€1.3 billion), achieving a result within the expected target corridor of €1.2 billion to €1.4 billion. The adjusted EBIT margin was 17.0%, landing at the upper end of the expected target corridor of 12% to 17%.
+* **Advanced Therapies:** Adjusted revenue increased on a comparable basis by 9% (exceeding the expectation of at least 5%). The adjusted EBIT margin met expectations at 14.8%, coming in at approximately the prior-year level with continued positive development compared to the industry overall.","Siemens Healthineers' cash flows from operating activities increased significantly from €1,928 million in 2020 to €2,933 million in 2021. Segment performances generally exceeded expectations, with high growth in Diagnostics and Imaging segments.",1,gemini-3.5-flash-lite,
+649,"How did the effective tax rate change from 2020 to 2021, and what factors contributed to this change?","Based on the supplied evidence, the effective tax rate was **9%** in 2020 and increased to **12%** in 2021. 
+
+Regarding the factors that contributed to this change, the evidence notes that in the first quarter of fiscal 2021, the United States Treasury Department issued final regulations on the foreign tax credit (applicable beginning in fiscal 2021, with certain provisions retroactive to fiscal 2019), which resulted in an increase to the fiscal 2021 effective tax rate by approximately **1%**.",The effective tax rate increased from 9% in 2020 to 12% in 2021 due to changes in benefits and provisions.,1,gemini-3.5-flash-lite,
+1387,How did the changes in intangible assets and goodwill influence the company's financial position over the years 2019 and 2020?,"Based on the supplied evidence, the changes in intangible assets and goodwill over 2019 and 2020 influenced the company's financial position through the following:
+
+* **Goodwill Balances:** Total goodwill increased from a year-end balance of $22,713 million as of December 31, 2019, to $35,420 million as of December 31, 2020. This was influenced by 2019 acquisitions ($216 million total added), 2020 acquisitions ($10,402 million total added across segments), 2020 divestitures ($181 million reduction in Life Sciences), purchase price finalization adjustments, and foreign currency translation and other factors ($78 million decrease in 2019; $2,489 million increase in 2020). Additionally, in connection with acquisitions during the year ended December 31, 2020, the company recognized aggregate goodwill of approximately $10.4 billion.
+* **Intangible Assets and Amortization:** The gross carrying amount of total intangibles increased from $13,296 million in 2019 to $26,056 million in 2020 (with accumulated amortization of $(3,546) million in 2019 and $(4,774) million in 2020). In 2020, the company recognized approximately $10.7 billion in intangible assets from acquisitions. Finite-lived intangible assets were acquired with weighted average lives of 13 years in 2019 and 17 years in 2020 (primarily from the Cytiva Acquisition). 
+* **Expenses and Impairments:** Total intangible amortization expense was $625 million in 2019 and increased to $1,138 million in 2020, primarily due to the Cytiva Acquisition and amortization of associated finite-lived intangible assets. Furthermore, the company identified impairment triggers during the first and third quarters of 2020, resulting in impairment charges totaling $22 million related to certain long-lived assets, including trade names and other intangible assets.","In 2020, acquisitions significantly increased both goodwill and intangible assets, impacting the company's financial position by raising total assets and requiring higher amortization expenses.",1,gemini-3.5-flash-lite,
+1420,How did the employee costs and research and development costs impact the total expenses in the income statement for Novo Nordisk in 2020? Compare these figures with the previous years.,"Based on the supplied evidence, here are the figures for employee costs and research and development costs for Novo Nordisk in 2020 and the comparative figures for previous years:
+
+* **Total Employee Costs in the Income Statement:**
+  * **2020:** 32,267 million DKK
+  * **2019:** 30,472 million DKK
+  * **2018:** 29,920 million DKK
+
+* **Employee Costs included within Research and Development Costs:**
+  * **2020:** 6,269 million DKK
+  * **2019:** 5,968 million DKK
+  * **2018:** (Value for 2018 is cut off in the evidence).
+
+* **Total Research and Development Costs:**
+  * **2020:** 15,462 million DKK (increased by 9% measured in Danish kroner and by 10% at CER compared to the previous year)
+  * **2019:** 14,220 million DKK
+  * **2018:** 14,805 million DKK","In 2020, employee costs and research and development costs increased, which contributed to higher total expenses in the income statement compared to previous years.",1,gemini-3.5-flash-lite,
+1767,What has been the trend in the shipment volume and market share for Marlboro in 2020 compared to 2019 in both the global market and the European Union?,"Based on the supplied evidence:
+
+* **Global Market Shipment Volume:** Marlboro cigarette shipment volume was 233,158 million units in 2020 compared to 262,908 million units in 2019, representing a change of (11.3)%. 
+* **European Union Market Share:** Marlboro's PMI market share in the European Union was 17.5% in 2020 compared to 18.0% in 2019, representing a change of (0.5).
+
+The provided evidence is insufficient to give the trend in Marlboro's global market share or its European Union shipment volume specifically.",The shipment volume for Marlboro decreased globally by 11.3% and in the European Union by 6.3%. Its market share declined by 0.5 percentage points globally and in the European Union.,0,gemini-3.5-flash-lite,
+233,What are the company's total GHG emissions for FY21?,"Based on the supplied evidence, the company's overall GHG emissions for FY21 were **315.14 ('000 tonnes of CO2e)**, and the combined Scope 1 and Scope 2 emissions for FY21 were **305.97 ('000 tonnes of CO₂e)** (or '000 tonnes of CO₂).",The total GHG emissions for FY21 are 315.14 thousand tonnes of CO2e.,1,gemini-3.5-flash-lite,
+76,What is common equity  for COSTCO in FY2021? ,"Based on the provided evidence, the specific numeric value for common equity (or common stock) for Costco in FY2021 is not explicitly isolated as a single figure in the text, though Total Equity is reported as $18,078 million and Total Costco stockholders' equity is included within the balance sheet for the period ended August 29, 2021. The evidence is insufficient to provide a precise, standalone figure exclusively for ""common equity"" for FY2021.",18078,0,gemini-3.5-flash-lite,
+139,What was the company's net income for the fiscal year 2021?,"Based on the supplied evidence, the company's net income for fiscal year 2021 was €1,746 million.","The net income for the fiscal year 2021 was 1,746 million euros.",1,gemini-3.5-flash-lite,
+1706,"How did HSBC's adjusted revenue and sustainability metrics evolve from 2019 to 2020, and what new metrics are being developed for 2021?","Based on the provided evidence, HSBC's adjusted revenue (measured as Net Operating Income) decreased from $25,565 million in 2019 to $22,013 million in 2020 (down by $3,552 million or 14%). 
+
+Regarding sustainability metrics, the metrics and indicators used in 2020 included:
+* **Net Zero Bank:** CO₂ emissions per FTE across scopes 1, 2, and 3; absolute CO₂ emissions across scopes 1, 2, and 3; and the percentage of renewable electricity sourced.
+* **Financed Emissions:** PACTA results for the automotive book, and the percentage and impacts on wholesale loans in high transition risk sectors.
+* **Supporting Customers:** Sustainable finance and investment provided ($bn), and ranking in green, social, and sustainable bond league tables.
+* **Climate Solutions:** Establishment of HSBC Pollination Climate Asset Management.
+
+The new metrics and indicators to be developed for 2021 are:
+* **Net Zero Bank:** Supply chain emissions.
+* **Financed Emissions:** Net zero alignment of the financing portfolio.
+* **Climate Solutions:** Cleantech investment in technology venture debt fund, and a philanthropic program for climate innovation and solutions.","HSBC's adjusted revenue decreased from 2019 to 2020, and new sustainability metrics are being developed for 2021 to measure progress towards becoming a net zero bank.",1,gemini-3.5-flash-lite,
+1120,What are the key milestones and results for Toyota's Environmental Challenge 2050 in terms of CO₂ emissions reduction?,"Based on the supplied evidence (specifically image4), the key milestones and results for Toyota's Environmental Challenge 2050 in terms of $\text{CO}_2$ emissions reduction are:
+
+* **Challenge:** Completely eliminate all $\text{CO}_2$ emissions throughout the entire vehicle life cycle.
+  * **2030 Milestone:** Reduce $\text{CO}_2$ emissions by 25% or more compared to 2013 levels with stakeholder support.
+  * **2020 Initiatives Results:** Steady promotion of life cycle $\text{CO}_2$ reduction through environmental management for product development.
+
+* **Challenge:** Reduce global average $\text{CO}_2$ emissions (TtW) from new vehicles by 90% compared to Toyota’s 2010 levels by 2050.
+  * **2030 Milestone:** Target global $\text{CO}_2$ emissions reduction of 35% or more, dependent on market conditions, compared to 2010 levels.
+  * **2020 Initiatives Results:** Reduced emissions by 23% compared to 2010 through enhanced performance and expanded electrified vehicles; achieved 16.98 million electrified vehicle sales.
+
+* **Challenge:** Achieve zero $\text{CO}_2$ emissions at global plants by 2050.
+  * **2030 Milestone:** Reduce emissions from global plants by 35% compared to 2013 levels.
+  * **2020 Initiatives Results:** Emissions were reduced by 22% compared to 2013 levels; introduced innovative technologies and promoted energy-saving; achieved 11% renewable electricity integration; conducted tests for hydrogen utilization.","Toyota aims to eliminate CO₂ emissions throughout the vehicle life cycle by 2050, with significant milestones achieved by 2020, including a 23% reduction in emissions from new vehicles compared to 2010.",1,gemini-3.5-flash-lite,
+1354,How did the issuance of Class A shares for employee share programs affect the total shareholders' equity and what were the net cash changes in financing activities related to share transactions for the year 2020?,"Based on the supplied evidence, the issuance of Class A shares for employee programs added $660,723 (decreasing Restricted Share Units by 1,022,144 and increasing Additional Paid-in Capital by $1,409,627) to total shareholders' equity. 
+
+The evidence is insufficient to provide the net cash changes in financing activities specifically related to these share transactions for the year 2020.","In 2020, the issuance of Class A shares for employee share programs added $955,308 to total shareholders' equity. The net cash change from share transactions in financing activities was a decrease of $1,960,292.",0,gemini-3.5-flash-lite,
+1109,What is the trend in Total Comprehensive Income from 2019 to 2021?,"Based on the supplied evidence, the Total Comprehensive Income for the year was:
+- **2019:** RMB 5,268 million
+- **2020:** RMB 8,100 million
+- **2021:** RMB 713 million
+
+Thus, from 2019 to 2020, Total Comprehensive Income increased, and then from 2020 to 2021, it decreased.",The Total Comprehensive Income decreased from 2019 to 2021.,1,gemini-3.5-flash-lite,
+158,What is the designation diversity on the board of directors in the company?,"Based on the supplied evidence, the designations of the four directors on the board are:
+
+1. **ONG Yih Ching**: Independent director (acting chair)
+2. **DING Poi Bor**: Managing director
+3. **Dominic LIM Kian Gam**: Independent director
+4. **LAU Eng Foo (Andy)**: Non-executive director","The board comprises one Managing director, two Independent directors, and one Non-executive director.",1,gemini-3.5-flash-lite,
+1259,How did the total value of Restricted Stock Units (RSUs) change from 2020 to 2021?,"Based on the supplied evidence (Image 4), the total value of Restricted Stock Units (RSUs) changed from CHF 1,154,044 in 2020 to CHF 1,277,982 in 2021.","The total value of RSUs increased from 1,154,044 CHF in 2020 to 1,277,982 CHF in 2021.",1,gemini-3.5-flash-lite,
+117,What was the company's net revenue for China in 2019?,"Based on the supplied evidence, the company's net revenue for China in 2019 was $1,300 million.","The net revenue for China in 2019 was $1,300 million.",1,gemini-3.5-flash-lite,
+248,By how much did the company's interest expense change from 2020 to 2021?,"The supplied evidence is insufficient to answer the question of by how much the company's interest expense changed from 2020 to 2021 (the text notes that interest expense decreased due to specific factors, but does not provide the exact monetary amount of the change).",The interest expense decreased by $307 million from 2020 to 2021.,0,gemini-3.5-flash-lite,
+795,How did the adjusted profit and profit per share change from Full Year 2020 to Full Year 2021?,"Based on the provided evidence, the adjusted profit changed from \$4,732 million in Full Year 2020 to \$7,461 million in Full Year 2021. The adjusted profit per share changed from \$6.56 in Full Year 2020 to \$10.81 in Full Year 2021.","Adjusted profit increased from $4,732 million ($6.56 per share) in 2020 to $7,461 million ($10.81 per share) in 2021.",1,gemini-3.5-flash-lite,
+1379,How did the changes in operating expenses and other financial metrics contribute to the overall financial performance between fiscal years 2019 and 2020?,"Between fiscal years 2019 and 2020, changes in operating expenses and other financial metrics contributed to overall financial performance as follows:
+
+* **Total Operating Expenses:** Increased by $3,270 million, rising from $9,296 million in fiscal 2019 to $12,566 million in fiscal 2020 (increasing from 70% to 73% of total revenues). This was driven by:
+  * **Research and Development:** Increased by $880 million (from $1,886 million to $2,766 million), primarily due to employee-related costs (up approximately $561 million), stock-based expenses (up $203 million), development and test data center costs, and allocated overhead, alongside a 54% increase in headcount.
+  * **Marketing and Sales:** Increased by $1,866 million (from $6,064 million to $7,930 million), primarily due to employee-related costs and amortization of deferred commissions (up $1.1 billion), stock-based expenses (up $209 million), amortization of purchased intangible assets (up $120 million), and allocated overhead, alongside a 36% increase in headcount.
+  * **General and Administrative:** Increased by $358 million (from $1,346 million to $1,704 million), primarily due to employee-related costs driven by a 38% increase in headcount and transaction costs from acquisitions (including approximately $40 million from Tableau in fiscal 2020, compared to approximately $24 million from MuleSoft in fiscal 2019).
+  * **Loss on Settlement of Salesforce.org Reseller Agreement:** Introduced as a new expense of $166 million in fiscal 2020 ($0 million in fiscal 2019).
+
+* **Cost of Revenues:** Total cost of revenues increased by $784 million, from $3,451 million in fiscal 2019 to $4,235 million in fiscal 2020 (decreasing from 26% to 25% of total revenues). This increase was driven by:
+  * **Subscription and Support Costs:** Increased by $594 million (from $2,604 million to $3,198 million).
+  * **Professional Services and Other Costs:** Increased by $190 million (from $847 million to $1,037 million).
+  * Specific drivers for the increase in cost of revenues included a $245 million increase in employee-related costs, a $43 million increase in stock-based expenses, a $213 million increase in service delivery costs (due to data center capacity efforts), and a $225 million increase in amortization of purchased intangible assets. Subscription and support gross margin benefited from a business mix shift toward cloud service offerings.
+
+* **Other Financial Metrics:**
+  * **Gains on Strategic Investments, net:** Decreased by $115 million, from $542 million in fiscal 2019 to $427 million in fiscal 2020. Fiscal 2020 net gains were primarily driven by unrealized gains on privately held equity securities ($208 million), publicly traded securities ($138 million), and remeasuring prior equity interests in MapAnything ($9 million) and ClickSoftware ($39 million); fiscal 2019 net gains were primarily driven by unrealized gains on publicly traded securities ($345 million).
+  * **Other Expense:** Decreased in expense by $76 million, from $94 million in fiscal 2019 to $18 million in fiscal 2020. This included interest expense on debt, operating/finance leases of $154 million (fiscal 2019) and $131 million (fiscal 2020), offset by investment income which increased by $61 million due to higher interest income from larger cash equivalents and marketable securities balances.
+  * **Income Taxes:** Shifted from a tax benefit of $127 million on a pretax income of $983 million in fiscal 2019 (effective tax rate of (13)%) to a tax provision of $580 million on a pretax income of $706 million in fiscal 2020 (effective tax rate of 82%), representing a variance of $(707) million. The fiscal 2020 provision was primarily driven by incremental tax costs associated with the integration of acquired operations and assets and profitable jurisdictions outside of the United States.","Increased operating expenses and a decline in gains on strategic investments negatively impacted financial performance, while decreased other expenses provided some relief.",1,gemini-3.5-flash-lite,
+1033,Which reportable segment has the highest net sales percentage and what are its major brands?,"Based on the supplied evidence, the reportable segment with the highest net sales percentage is **Fabric & Home Care** (with **35%** net sales). Its major brands are **Ariel, Downy, Gain, Tide, Cascade, Dawn, Fairy, Febreze, Mr. Clean, and Swiffer**.","Fabric & Home Care; Ariel, Downy, Gain, Tide, Cascade, Dawn, Fairy, Febreze, Mr. Clean, Swiffer.",1,gemini-3.5-flash-lite,
+1278,"How did the total actuarial gains and losses change between fiscal years 2020 and 2021, and what were the contributing factors?","Based on the supplied evidence, the total actuarial gains (–) and losses changed from €67 million in fiscal year 2020 to €-22 million in fiscal year 2021. 
+
+The contributing factors and their values for fiscal years 2020 and 2021 are:
+* **Changes in demographic assumptions:** €-3 million in 2020 and €-8 million in 2021.
+* **Changes in financial assumptions:** €72 million in 2020 and €-26 million in 2021.
+* **Experience gains and losses:** €-2 million in 2020 and €12 million in 2021.","Total actuarial gains and losses decreased from €67 million in 2020 to -€22 million in 2021, primarily due to changes in financial assumptions.",1,gemini-3.5-flash-lite,
+1016,"What is the difference in the total Core, Non-GAAP Measure between 2019 and 2020, and how do adjustments affect this?","Based on the supplied evidence, the total Core, Non-GAAP Measure changed from $10,602 million in 2019 to $10,531 million in 2020. 
+
+These Core, Non-GAAP totals are derived by taking the Reported, GAAP Measure and adjusting for items affecting comparability, which include:
+- Mark-to-market net impact
+- Restructuring and impairment charges
+- Inventory fair value adjustments and merger and integration charges
+- Pension-related settlement charges
+- Net tax related to the TCJ Act (in 2019 only)
+
+Removing these one-time or non-recurring items adjusts the reported figures to offer the Core, Non-GAAP Measure.","The total Core, Non-GAAP Measure decreased from $10,602 million in 2019 to $10,531 million in 2020, a difference of $71 million, primarily impacted by adjustments like restructuring charges and inventory fair value adjustments.",1,gemini-3.5-flash-lite,
+1465,"Who among the listed ExxonMobil executives has held their current position the longest, and how does this compare to the share purchase activity in the last quarter of 2020?","Among the listed ExxonMobil executives, **David S. Rosenthal** has held his position the longest, serving as Vice President since October 1, 2008 (and Controller since September 1, 2014). 
+
+Compared to this, regarding the share purchase activity in the last quarter of 2020, **the Corporation did not purchase any shares of its common stock** for the treasury during the fourth quarter (with no shares purchased in October, November, or December 2020).","David S. Rosenthal has held his current position the longest since October 1, 2008. In the last quarter of 2020, no shares were purchased by ExxonMobil.",1,gemini-3.5-flash-lite,
+1356,What are the changes in deferred revenues and earnings per share from 2019 to 2020?,"Based on the supplied evidence:
+
+* **Deferred revenues:**
+  * **Current deferred revenues** were $3,636,741 as of August 31, 2020, compared with $3,188,835 as of August 31, 2019.
+  * **Non-current deferred revenues** were $690,931 as of August 31, 2020, compared with $565,224 (and $563,245 noted elsewhere) as of August 31, 2019.
+
+* **Earnings per share:**
+  * **Basic earnings per share** were $8.03 for fiscal 2020, compared with $7.49 for fiscal 2019.
+  * **Diluted earnings per share** were $7.89 for fiscal 2020, compared with $7.36 for fiscal 2019.","Deferred revenues increased by $573,613, and basic earnings per share increased by $0.54 from 2019 to 2020.",1,gemini-3.5-flash-lite,
+380,How did the cash flows from operating activities change over the three fiscal years?,"Based on the supplied evidence, the net cash provided by operating activities over the three fiscal years was:
+
+* **2019:** $6,356M
+* **2020:** $8,861M
+* **2021:** $8,958M","Cash flows from operating activities increased from $6,356M in 2019 to $8,861M in 2020, and slightly increased to $8,958M in 2021.",1,gemini-3.5-flash-lite,
+1413,"How did the liquidity resources and liquidity coverage ratio (LCR) change for Morgan Stanley between the end of 2019 and 2020, and what implications might these changes have for the company's financial stability?","Based on the supplied evidence, the exact change in Morgan Stanley's liquidity resources between the end of 2019 and the end of 2020 is insufficient, as the total for December 31, 2019, is cut off in the provided text (though text mentions total liquidity resources increased in 2020 primarily due to an increase in deposits, including incremental deposits from the E*TRADE acquisition). Additionally, the supplied evidence does not provide the Liquidity Coverage Ratio (LCR) for the end of 2019 to determine its change (it only provides the LCR as 136% on September 30, 2020, and 129% on December 31, 2020). 
+
+Regarding implications for financial stability, the evidence notes that LCR requirements and liquidity resources are designed to ensure sufficient Eligible HQLA to cover net cash outflows over 30 calendar days of significant stress, thus ""promoting the short-term resilience of the liquidity risk profile of banking organizations.""","Liquidity resources increased significantly, and the LCR decreased slightly, reflecting robust liquidity management but also a potential decrease in immediate liquidity under stress scenarios.",0,gemini-3.5-flash-lite,
+592,How did net cash flows from financing activities change from 2018 to 2020?,"Based on the supplied evidence, net cash used in financing activities was $(4,867) million in 2020 and $(22,490) million in 2018.","Net cash used in financing activities decreased from $(22,490) in 2018 to $(4,867) in 2020.",1,gemini-3.5-flash-lite,
+1342,"How did Tesla's net income and comprehensive income change from 2018 to 2020, and what were the contributing factors to these changes?","Based on the supplied evidence, Tesla's net income and comprehensive income changed as follows from 2018 to 2020:
+
+* **Net Income (Loss):** 
+  * **2018:** $(1,063) million (loss)
+  * **2019:** $(775) million (loss)
+  * **2020:** $862 million (representing a favorable change of $1.58 billion in net income attributable to common stockholders compared to the prior year)
+
+* **Comprehensive Income (Loss):** 
+  * **2018:** $(1,105) million (loss)
+  * **2019:** $(803) million (loss)
+  * **2020:** $1,261 million
+
+**Contributing Factors:**
+* **Automotive Sales Revenue:** Increased by $6.23 billion (or $31\%$) in 2020 compared to 2019, primarily due to an increase of 129,268 Model 3 and Model Y cash deliveries (driven by production ramping at Gigafactory Shanghai and the Fremont Factory), an increase of $986 million from additional sales of regulatory credits (reaching $1.58 billion in 2020), and a positive impact of $483 million from a smaller reduction in revenue related to pricing adjustments compared to the prior year. These were partially offset by a decrease in the combined average selling price of Model 3 and Model Y (due to a higher proportion of Model 3 Standard Range variants) and fewer Model S and Model X cash deliveries.
+* **Automotive Leasing Revenue:** Increased by $183 million (or $21\%$) in 2020 compared to 2019, primarily due to an increase in cumulative vehicles under the direct operating lease program and the introduction of direct sales-type leasing programs in the third quarter of 2020, partially offset by decreases in resale value guarantee leasing programs as those portfolios declined.
+* **Services and Other Revenue:** Increased by $80 million (or $4\%$) in 2020 compared to 2019, driven by increases in non-warranty maintenance services revenue, retail merchandise revenue, and sales by acquired subsidiaries, partially offset by a decrease in used vehicle revenue due to a reduction in non-Tesla trade-ins.
+* **Foreign Currency Transactions:** Tesla recorded net foreign currency transaction gains of $2 million in 2018, gains of $48 million in 2019, and losses of $114 million in 2020.
+* **Operational Efficiencies and Expenses:** The company focused on operational efficiencies, which were partially offset by an acceleration of non-cash stock-based compensation expense driven by a rapid increase in market capitalization and updates to business outlook. Additionally, prior-year results (2018) included specific restructuring actions, employee termination expenses, energy generation and storage segment restructuring expenses, an impairment loss on an IPR&D asset, and settlement and legal expenses relating to the SEC.","Tesla's net income increased from a loss of $1,063 million in 2018 to a profit of $862 million in 2020. Comprehensive income improved from a loss of $1,105 million in 2018 to a profit of $1,261 million in 2020, driven by improvements in foreign currency translation adjustments and reductions in net loss attributable to common stockholders.",1,gemini-3.5-flash-lite,
+1164,How did the total crude oil and natural gas liquids production change from 2018 to 2020?,The supplied evidence is insufficient to answer how the total crude oil and natural gas liquids production changed from 2018 to 2020.,"The total crude oil and natural gas liquids production increased from 1,896 thousand barrels daily in 2018 to 1,939 thousand barrels daily in 2020.",0,gemini-3.5-flash-lite,
+234,How many company-operated restaurants were there in the U.S. at the end of 2018?,"Based on the supplied evidence, there were 685 company-operated restaurants in the U.S. at the end of 2018.",There were 685 company-operated restaurants in the U.S. at the end of 2018.,1,gemini-3.5-flash-lite,
+745,"What is the total value of the debt issuances for American Express in 2021, and how is this total distributed across different types of notes and certificates?","Based on the supplied evidence, the total value of debt issuances for American Express in 2021 is $5.8 billion. This total is distributed across the following types of notes and certificates:
+
+* **American Express Company:**
+  * Fixed Rate Senior Notes: $1.9 billion
+  * Floating Rate Senior Notes: $1.1 billion
+* **American Express Credit Account Master Trust:**
+  * Fixed Rate Class A Certificates: $2.8 billion","The total value is $5.8 billion, distributed as $1.9 billion in Fixed Rate Senior Notes, $1.1 billion in Floating Rate Senior Notes, and $2.8 billion in Fixed Rate Class A Certificates.",1,gemini-3.5-flash-lite,
+2050,How did Siemens Healthineers' financial debt and financial assets change from 2020 to 2021?,"Based on the supplied evidence, Siemens Healthineers' financial debt and total other financial assets changed as follows from September 30, 2020, to September 30, 2021:
+
+* **Total financial debt** increased from €5,503 million in 2020 to €14,315 million in 2021. 
+  * Specifically, total current financial debt decreased from €2,207 million in 2020 to €2,150 million in 2021, while total non-current financial debt increased from €3,297 million in 2020 to €12,164 million in 2021.
+* **Total other financial assets** increased from €352 million in 2020 to €928 million in 2021.",Both financial debt and financial assets increased from 2020 to 2021.,1,gemini-3.5-flash-lite,
+1874,"What are the key differences in the assets, liabilities, and trade receivables between the two consecutive years reported?","Based on the provided evidence, here are the key figures and differences for assets, liabilities, and trade receivables between the two reported consecutive years (31/01/2021 and 31/01/2022):
+
+**Assets:**
+* **Non-Current Assets:** 
+  * 31/01/2022: 15,343 million euros
+  * 31/01/2021: 15,460 million euros
+* **Current Assets:** 
+  * 31/01/2022: 13,602 million euros
+  * 31/01/2021: 10,957 million euros
+* **Total Assets:** 
+  * 31/01/2022: 28,945 million euros
+  * 31/01/2021: 26,418 million euros
+
+**Liabilities (and Equity):**
+* **Total Non-Current Liabilities:** 
+  * Current Period: 5,157 million euros
+  * Previous Period: 5,529 million euros
+* **Total Current Liabilities:** 
+  * Current Period: 8,030 million euros
+  * Previous Period: 6,338 million euros
+* **Total Equity and Liabilities:** 
+  * Current Period: 28,945 million euros
+  * Previous Period: 26,418 million euros
+
+**Trade Receivables (within Trade and other receivables):**
+* **Trade receivables:** 
+  * 31/01/2022: 267
+  * 31/01/2021: 255
+* **Receivables due to sales to franchises:** 
+  * 31/01/2022: 242
+  * 31/01/2021: 177
+* **Public entities:** 
+  * 31/01/2022: 251
+  * 31/01/2021: 199
+* **Other current receivables:** 
+  * 31/01/2022: 82
+  * 31/01/2021: 85
+* **Total Trade and other receivables:** 
+  * 31/01/2022: 842
+  * 31/01/2021: 715","Key differences include changes in total assets, total liabilities, and specific receivables categories between 2021 and 2022.",1,gemini-3.5-flash-lite,
+1360,"What are the implications of the credit ratings for American Express's unsecured debt on their funding strategies, as observed from their debt issuances in 2021?","Based on the supplied evidence, the provided text does not contain observations connecting the specific implications of credit ratings for American Express's unsecured debt to their funding strategies specifically through their 2021 debt issuances. Therefore, the evidence is insufficient to answer the question.","Downgrades in credit ratings could lead to higher borrowing costs and affect the funding strategy, which in 2021 included $5.8 billion in debt issuances with various interest rates.",0,gemini-3.5-flash-lite,
+1762,Compare the diversity statistics and financial data for PepsiCo's Board of Directors and Senior Executives in 2020.,"Based on the supplied evidence, the 2020 diversity statistics are as follows:
+* **Board of Directors:** 21% women globally and 36% people of color in the U.S.
+* **Senior Executives:** 20% women globally and 29% people of color in the U.S.
+
+The provided evidence is insufficient to provide financial data specifically comparing PepsiCo's Board of Directors and Senior Executives.","In 2020, PepsiCo's Board of Directors had 21% women globally and 36% people of color in the U.S., while Senior Executives had 20% women globally and 29% people of color in the U.S. Financially, the Board of Directors and Senior Executives' expenses and assets are distributed across various categories in the company's financial data.",1,gemini-3.5-flash-lite,
+660,"How did the total inventory values change between September 27, 2020, and September 26, 2021, and what are the contributing factors?","Based on the supplied evidence, the total inventory value changed from $2,598 million (at September 27, 2020) to $3,228 million (at September 26, 2021). 
+
+The contributing factors are the changes across its component categories between September 27, 2020, and September 26, 2021:
+* **Raw materials** increased from $94 million to $267 million.
+* **Work-in-process** increased from $1,155 million to $1,475 million.
+* **Finished goods** increased from $1,349 million to $1,486 million.","The total inventory values increased from $2,598 million in 2020 to $3,228 million in 2021, driven by increases in raw materials, work-in-process, and finished goods.",1,gemini-3.5-flash-lite,
+1427,"How did the specific adjustments impact PepsiCo's net income per common share from 2019 to 2020, and what was the overall effect on the core net income per common share?","Based on the provided evidence, the specific adjustments impacting PepsiCo's net income per common share (diluted) for 2019 and 2020 are:
+
+* **Mark-to-market net impact:** 
+  * 2020: (0.04)
+  * 2019: (0.06)
+* **Restructuring and impairment charges:**
+  * 2020: 0.17
+  * 2019: 0.21
+* **Inventory fair value adjustments and merger and integration charges:**
+  * 2020: 0.17
+  * 2019: 0.03
+* **Pension-related settlement charges:**
+  * 2020: 0.11
+  * 2019: 0.15
+* **Net tax related to the TCJ Act:**
+  * 2020: —
+  * 2019: (0.01)
+
+Regarding the overall effect on core net income per common share:
+* **Core net income attributable to PepsiCo per common share (diluted, non-GAAP measure):**
+  * 2020: $5.52
+  * 2019: $5.53
+  * Change: —%","Specific adjustments led to a decrease in net income per share from $5.20 to $5.12, but the core net income per share remained stable at $5.52.",1,gemini-3.5-flash-lite,
+379,"How did the total liabilities of Costco change from August 30, 2020, to August 29, 2021?","Based on the supplied evidence, the total liabilities of Costco changed as follows (derived from the balance sheet data in image2):
+
+- **Current Liabilities:** Increased from $24,844 million as of August 30, 2020, to $29,441 million as of August 29, 2021.
+- **Other Liabilities:** Increased from $36,851 million as of August 30, 2020, to $41,190 million as of August 29, 2021.
+
+*(Note: Total liabilities can be calculated by summing current and other liabilities, changing from $61,695 million on August 30, 2020, to $70,631 million on August 29, 2021).*","Total liabilities increased from $36,851 million in 2020 to $41,190 million in 2021.",0,gemini-3.5-flash-lite,
+552,"What were the total exploration expenses for BHP in the year ending June 30, 2021, and how do these compare to previous years?","Based on the supplied evidence, the total exploration expenditure for BHP in FY2021 was US$514 million (or US$516 million Total Group exploration expenses according to the commodity breakdown). 
+
+Compared to previous years:
+* **Total Group exploration expenses:** US$516 million in 2021, compared to US$517 million in 2020 and US$537 million in 2019.
+* **Petroleum exploration expenditure:** US$322 million in FY2021 (of which US$296 million was expensed), compared to US$564 million in 2020 and US$685 million in 2019. 
+* **Resource assessment exploration expenditure:** Increased by 5 per cent in FY2021 to US$138 million (compared to US$132 million in 2020 and US$126 million in 2019).
+* **Greenfield exploration expenditure:** Increased by 23 per cent in FY2021 to US$54 million (compared to US$44 million in 2020 and US$62 million in 2019).","The total exploration expenses for BHP in 2021 were $516 million, which was slightly less than 2020's $517 million and significantly less than 2019's $537 million.",1,gemini-3.5-flash-lite,
+1742,"How did the net deferred tax asset/(liability) change from 2019 to 2020, and what were the main contributing factors?","Based on the supplied evidence (Image 1), the net deferred tax asset/(liability) changed from a starting position of 4,041 million DKK at 1 January to 3,363 million DKK at 31 December for the year 2020. 
+
+The main contributing factors (changes) were:
+* **Income/(charge) to other comprehensive income:** reduced the total by 577 million DKK
+* **Effect of exchange rate adjustment:** reduced the total by 307 million DKK
+* **Acquisition of subsidiaries:** added 276 million DKK
+* **Income/(charge) to equity:** reduced the total by 72 million DKK
+* **Income/(charge) to the income statement:** resulted in a net change of 2 million DKK
+
+*(Note: Evidence for the year 2019 specifically is insufficient, as the detailed deferred tax breakdown is only provided for 2020 in the supplied text.)*","The net deferred tax asset/(liability) decreased from 4,041 million DKK in 2019 to 3,363 million DKK in 2020, primarily due to income/charge to the income statement and other comprehensive income adjustments.",1,gemini-3.5-flash-lite,
+1267,How did the financial assets and liabilities to affiliated companies change from 2020 to 2021?,"Based on the supplied evidence, financial assets changed as follows:
+- Financial assets under non-current assets increased by **€12,557 million**, moving from **€19,209 million in 2020** to **€31,767 million in 2021** (Text 2, Image 2). Additionally, a specific transaction caused financial assets to decline by €3,000 million (Text 4).
+
+For liabilities to affiliated companies:
+- Liabilities to affiliated companies and other liabilities increased from **€4,752 million in 2020** to **€15,181 million in 2021** (Image 2).","Financial assets increased by €12,558 million, and liabilities to affiliated companies increased by €10,429 million from 2020 to 2021.",1,gemini-3.5-flash-lite,
+735,"How did the net interest yield on average Card Member loans change from 2019 to 2021, and what factors contributed to this change?","Based on the supplied evidence, the net interest yield on average Card Member loans changed as follows:
+
+* **2019:** 11.1%
+* **2021:** 10.7% 
+
+(The yield was 11.5% in 2020.) 
+
+The provided evidence does not detail the specific factors that contributed to this change from 2019 to 2021.","The net interest yield decreased from 11.1% in 2019 to 10.7% in 2021, influenced by changes in adjusted net interest income and average Card Member loans.",0,gemini-3.5-flash-lite,
+1243,"What is the total balance of financial investments as of 31/01/2022, and what activities contributed to the changes?","Based on the supplied evidence, the total balance of financial investments (specifically under ""Financial investments"" from Note 17) as of 31/01/2022 is 307 (consisting of Loans and other credit facilities: 9, Investments accounted for using the equity method: 295, and Others: 2). 
+
+The changes contributing to the balance are affected by activities such as **acquisitions**, **disposals**, **transfers**, and **foreign exchange translation differences**. 
+
+*(Note: If referring to ""Current financial investments"", the balance as of 31/01/2022 is 2,374).*","The total balance as of 31/01/2022 is 307, with changes due to acquisitions, disposals, transfers, and foreign exchange translation differences.",1,gemini-3.5-flash-lite,
+988,How did the total contract amount and fair value of derivative financial instruments change from 2019 to 2020?,"Based on the supplied evidence, the exact change in the total contract amount of derivative financial instruments from 2019 to 2020 is not provided (the evidence mentions totals for derivative financial instruments under financial assets at fair value through the income statement were DKK 2,332 million in 2020 and DKK 188 million in 2019, but does not provide total contract amounts).","The total contract amount increased from DKK 50,455 million in 2019 to DKK 63,390 million in 2020, while the positive fair value decreased from DKK 188 million to DKK 2,332 million.",0,gemini-3.5-flash-lite,
+981,What are the main changes in net deferred tax assets and liabilities from January to December 2020?,"Based on the supplied evidence (specifically image3), the main changes in net deferred tax assets and liabilities from 1 January to 31 December 2020 are as follows:
+
+* **Net deferred tax asset/(liability) at 1 January:** 4,041 million DKK
+* **Income/(charge) to the income statement:** 2 million DKK
+* **Income/(charge) to other comprehensive income:** -577 million DKK
+* **Income/(charge) to equity:** -72 million DKK
+* **Acquisition of subsidiaries:** 276 million DKK
+* **Effect of exchange rate adjustment:** -307 million DKK
+* **Net deferred tax asset/(liability) at 31 December:** 3,363 million DKK","The net deferred tax asset/liability decreased from 4,041 million DKK to 3,363 million DKK.",1,gemini-3.5-flash-lite,
+2049,"How did Siemens Healthineers' current and non-current liabilities change from 2020 to 2021, and what were the major contributors to these changes?","Based on the supplied evidence, Siemens Healthineers' liabilities changed from 2020 to 2021 as follows:
+
+* **Current Liabilities:** Remaining current liabilities increased by €1,168 million to €3,104 million (up from €1,936 million in 2020). The major contributor was ""other current liabilities,"" which increased by €818 million mainly due to deferrals related to increased performance-related remuneration components and the acquisition of Varian.
+* **Non-Current Liabilities:** Remaining non-current liabilities grew by €1,717 million to €2,686 million (up from €969 million in 2020). The major contributor was deferred tax liabilities, which increased by €1,612 million (rising from €470 million to €2,082 million), mainly as a result of the acquisition of Varian.","Current liabilities increased by €1,168 million, mainly due to higher other current liabilities and deferred tax liabilities. Non-current liabilities increased by €1,717 million, primarily due to a significant rise in deferred tax liabilities.",1,gemini-3.5-flash-lite,
+741,What is the trading symbol and exchange for American Express's common shares?,"Based on the supplied evidence, American Express's common shares trade under the trading symbol **AXP** on **The New York Stock Exchange** (also referred to as the New York Stock Exchange).","The trading symbol is AXP, and the exchange is the New York Stock Exchange.",1,gemini-3.5-flash-lite,
+59,"what is After-tax Return on Average Equity  for the fiscal year ending January 28, 2023? round your answer to three decimal places","The supplied evidence is insufficient to calculate or provide the After-tax Return on Average Equity for the fiscal year ending January 28, 2023.",0.488,0,gemini-3.5-flash-lite,
+576,How did the net income trend change from 2018 to 2020 according to the financial data?,"According to the financial data, the net income trend decreased from 2018 to 2020:
+- **2018:** $8,394
+- **2019:** $7,842
+- **2020:** $7,264",The net income decreased from 2018 to 2020.,1,gemini-3.5-flash-lite,
+1606,"What are the changes in cash and cash equivalents and total liabilities for Brazil Minerals, Inc. between December 31, 2019, and December 31, 2020, and how do the quarterly high and low stock prices compare for these two years?","Between December 31, 2019, and December 31, 2020:
+* **Cash and cash equivalents** changed from $151,088 to $253,598.
+* **Total liabilities** changed from $2,347,085 to $2,448,140.
+
+**Quarterly high and low stock prices comparison:**
+
+* **2019:**
+  * First Quarter (1/1–3/31): High $0.0024, Low $0.0009
+  * Second Quarter (4/1–6/30): High $0.0015, Low $0.0006
+  * Third Quarter (7/1–9/30): High $0.0090, Low $0.0009
+  * Fourth Quarter (10/1–12/31): High $0.0043, Low $0.0014
+
+* **2020:**
+  * First Quarter (1/1–3/31): High $0.0018, Low $0.0009
+  * Second Quarter (4/1–6/30): High $0.0021, Low $0.0008
+  * Third Quarter (7/1–9/30): High $0.0019, Low $0.0008
+  * Fourth Quarter (10/1–12/31): High $0.0027, Low $0.0007","Cash and cash equivalents increased from $151,088 in 2019 to $253,598 in 2020, while total liabilities increased from $2,347,085 in 2019 to $2,448,140 in 2020. The quarterly high and low stock prices for 2019 show more variation compared to 2020.",1,gemini-3.5-flash-lite,
