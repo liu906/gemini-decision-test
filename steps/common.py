@@ -6,8 +6,7 @@ from pathlib import Path
 
 import pandas as pd
 
-# The local CNTLM proxy (http_proxy=127.0.0.1:3128 in ~/.zshenv) drops
-# connections to Google APIs, which are reachable directly. Bypass it for them.
+
 for _var in ("no_proxy", "NO_PROXY"):
     _hosts = [h for h in os.environ.get(_var, "").split(",") if h]
     if "googleapis.com" not in _hosts:
@@ -21,7 +20,7 @@ GENERATOR = "gemini-3.1-flash-lite"  # Vertex AI (gcloud ADC)
 SCORER = "gemini-decision-1"  # Gemini API only (API key); not on Vertex AI
 JUDGE = "gemini-3.1-flash-lite"  # Vertex AI (gcloud ADC)
 
-GCP_PROJECT = os.environ.get("GOOGLE_CLOUD_PROJECT", "osbx-1118")
+GCP_PROJECT = os.environ.get("GOOGLE_CLOUD_PROJECT", "XXXXX")
 GCP_LOCATION = "global"
 
 DATASET_BASE = "https://huggingface.co/datasets/MMDocIR/MMDocRAG/resolve/main"
