@@ -1,4 +1,4 @@
-# Pipeline steps (split from `test_decision.ipynb`)
+# Pipeline steps
 
 Run from anywhere; CSVs and figures are read from / written to the project root.
 Shared settings (domain, models, file names) live in `common.py`.
